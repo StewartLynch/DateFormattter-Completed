@@ -8,3 +8,4 @@ The starter project and video is available in the notes for the video.
 " target="_blank"><img src="http://img.youtube.com/vi/uqTtTq-Vpvk/0.jpg" 
 alt="DateFormatter" width="480" height="360" border="10" /></a>
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z22WRVG)
